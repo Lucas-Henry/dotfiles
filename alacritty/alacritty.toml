@@ -1,0 +1,14 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/horizon_dark.toml"
+]
+
+[window]
+  opacity = 0.75
+  decorations = "none"
+  dimensions = { columns = 120, lines = 36 }
+
+[font]
+  normal = { family = "CaskaydiaCove NFM", style = "Bold"}
+  size = 12
+  
