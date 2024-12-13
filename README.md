@@ -66,5 +66,5 @@
 <!-- License -->
 <h2 id="license">License</h2>
 <p>
-  This project is licensed under the <a href="LICENSE">MIT License</a>.
+  This project is licensed under the <a href="LICENSE">GNU License</a>.
 </p>
